@@ -7,3 +7,7 @@
 <p align="center">
   <img alt="Logo do projeto" src="logo.png">
 </p>
+
+
+  Jogue aqui: https://jeniffersouza.github.io/flappyBird/
+
